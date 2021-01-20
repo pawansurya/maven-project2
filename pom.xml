@@ -162,6 +162,8 @@
     </pluginManagement>
   </build>
 
+First line added
+
   <dependencyManagement>
     <dependencies>
       <dependency>
