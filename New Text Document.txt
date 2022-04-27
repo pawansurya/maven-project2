@@ -1,1 +1,2 @@
-This is New text document
+This is New text
+This is second line code of new text document
